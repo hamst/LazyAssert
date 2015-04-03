@@ -1,0 +1,14 @@
+//
+//  LazyAssert.pch
+//  LazyAssert
+//
+//  Created by Roman Gayu on 04/04/15.
+//
+//
+
+#ifndef LazyAssert_LazyAssert_pch
+#define LazyAssert_LazyAssert_pch
+
+#import <AppKit/AppKit.h>
+
+#endif
