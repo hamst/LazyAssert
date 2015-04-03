@@ -14,23 +14,23 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9C7C17481ACF282900965A25"
-               BuildableName = "LazyAssert.xcplugin"
-               BlueprintName = "LazyAssert"
-               ReferencedContainer = "container:LazyAssert.xcodeproj">
+               BlueprintIdentifier = "E665E3D10E0444D5D5C4091A"
+               BuildableName = "libPods.a"
+               BlueprintName = "Pods"
+               ReferencedContainer = "container:Pods/Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
             buildForTesting = "YES"
-            buildForRunning = "NO"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "NO">
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8966AFCA173EB7BF004150C0"
-               BuildableName = "LazyAssertTests.xctest"
-               BlueprintName = "LazyAssertTests"
+               BlueprintIdentifier = "9C7C17481ACF282900965A25"
+               BuildableName = "LazyAssert.xcplugin"
+               BlueprintName = "LazyAssert"
                ReferencedContainer = "container:LazyAssert.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -43,6 +43,15 @@
       buildConfiguration = "Debug">
       <Testables>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "9C7C17481ACF282900965A25"
+            BuildableName = "LazyAssert.xcplugin"
+            BlueprintName = "LazyAssert"
+            ReferencedContainer = "container:LazyAssert.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </TestAction>
    <LaunchAction
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
@@ -57,6 +66,7 @@
       viewDebuggingEnabled = "No">
       <PathRunnable
          runnableDebuggingMode = "0"
+         BundleIdentifier = "com.apple.dt.Xcode"
          FilePath = "/Applications/Xcode.app">
       </PathRunnable>
       <MacroExpansion>
@@ -77,6 +87,15 @@
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "9C7C17481ACF282900965A25"
+            BuildableName = "LazyAssert.xcplugin"
+            BlueprintName = "LazyAssert"
+            ReferencedContainer = "container:LazyAssert.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
